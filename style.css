@@ -1,1 +1,119 @@
-/*# sourceMappingURL=style.css.map */
+* {
+  margin: 0;
+}
+
+header {
+  background-color: #f3feff;
+}
+header .drun {
+  padding: 30px 0px;
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header .drun nav {
+  display: flex;
+  gap: 50px;
+}
+header .drun nav span {
+  color: #35afbf;
+  border-bottom: 1px solid #35afbf;
+  padding-bottom: 10px;
+}
+header .drun nav p {
+  color: gray;
+}
+header .drun button {
+  padding: 15px 30px;
+  background-color: #35afbf;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+
+.section1 {
+  background-color: #f3feff;
+}
+.section1 .drun aside {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: start;
+}
+.section1 .drun aside button {
+  padding: 15px 30px;
+  background-color: #35afbf;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+.section1 .drun {
+  padding: 30px 0px;
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.section1 .drun h1 {
+  font-size: 51px;
+}
+.section1 .drun span {
+  color: #35afbf;
+}
+
+.section2 {
+  padding: 30px 0px;
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 100px 0px;
+  flex-direction: column;
+  gap: 20px;
+  text-align: center;
+}
+.section2 .x4 {
+  display: flex;
+  justify-content: space-between;
+}
+.section2 .box {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+  padding: 30px 10px;
+  border-radius: 20px;
+}
+.section2 .box1 {
+  background-color: #D1F4F9;
+}
+
+.section3 {
+  padding: 30px 0px;
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.section3 aside {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: start;
+}
+.section3 aside button {
+  padding: 15px 30px;
+  background-color: #35afbf;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  color: #35afbf;
+  border: 1px solid #35afbf;
+  background-color: white;
+}/*# sourceMappingURL=style.css.map */
